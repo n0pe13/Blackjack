@@ -13,5 +13,5 @@ The purpose of this project was to learn and experiment with object oriented Pyt
 - Example: `class Game(Deck)` where `super().__init__` allows me access to parent class functionality
 
 [*Polymorphism*]: Overwriting a method 
-- Example: If you have 2 classes where 1 of them is the subclass (no functionality) and the other the parent, and when you go to instantiate
-           an instance of the 2 classes, the sub-class which currently has no functionality is able to take on methods from its parent class
+- Example: If you have 2 classes where 1 of them is the subclass (no methods) and the other the parent, and when you go to instantiate
+           an instance of the 2 classes, the sub-class which currently has no methods is able to take on methods from its parent class
