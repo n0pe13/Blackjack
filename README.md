@@ -1,4 +1,4 @@
-The purpose of this project was to learn and experiment with object oriented Python.
+The purpose of this project was to learn and experiment with object oriented Python. I know it isn't optimized, no error checking, among a lot of other undesirable habits however these are things I aim to improve on.
 
 **4 Pillars of Python OOP:**
 
