@@ -2,7 +2,7 @@ The purpose of this project was to learn and experiment with object oriented Pyt
 
 **4 Pillars of Python OOP:**
 
-[*Encapsulation*]: This is the practice of keep class variables and methods safe from outside interference
+[*Encapsulation*]: This is the practice of keeping class variables and methods safe from outside interference
 - Example: Wasn't used in my code but I could change `def build_deck(self)` to `def __build_deck(self)` which then could be used by doing
            `something._Deck__build_deck()` (mangling)
 
