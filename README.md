@@ -6,7 +6,7 @@ The purpose of this project was to learn and experiment with object oriented Pyt
 - Example: Wasn't used in my code but I could change `def build_deck(self)` to `def __build_deck(self)` which then could be used by doing
            `something._Deck__build_deck()` (mangling)
 
-[*Abstraction*]: Essentially this describes a class that contains blueprints, no functionality, to future sub-classes
+[*Abstraction*]: Essentially this describes a class method that contains no functionality and is meant to let future methods of other                      classes overwrite it
 - Example: I was considering using abstraction in `Class Card` but ultimately decided not to 
 
 [*Inheritance*]: When a sub-class inherits all the functionality of a parent class
